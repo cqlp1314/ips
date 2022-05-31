@@ -1,6 +1,6 @@
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2333      0 --:--:-- --:--:-- --:--:--  2581
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   1429      0 --:--:-- --:--:-- --:--:--  3123
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -11,7 +11,7 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2300      0 --:--:-- --:--:-- --:--:--  2581
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2155      0 --:--:-- --:--:-- --:--:--  3513
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -22,7 +22,7 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2362      0 --:--:-- --:--:-- --:--:--  2750
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2771      0 --:--:-- --:--:-- --:--:--  3563
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -33,12 +33,5 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2472      0 --:--:-- --:--:-- --:--:--  2720
-<html>
-<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
-<body>
-<center><h1>400 Bad Request</h1></center>
-<center>The plain HTTP request was sent to HTTPS port</center>
-<hr><center>cloudflare</center>
-</body>
-</html>
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (28) Operation timed out after 254 milliseconds with 0 bytes received
