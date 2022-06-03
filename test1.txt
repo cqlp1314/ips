@@ -1,6 +1,6 @@
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2702      0 --:--:-- --:--:-- --:--:--  3563
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   3683      0 --:--:-- --:--:-- --:--:--  3720
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -11,7 +11,7 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2396      0 --:--:-- --:--:-- --:--:--  3123
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   3558      0 --:--:-- --:--:-- --:--:--  3614
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -22,7 +22,7 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2715      0 --:--:-- --:--:-- --:--:--  3614
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   3688      0 --:--:-- --:--:-- --:--:--  3720
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -33,7 +33,7 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2565      0 --:--:-- --:--:-- --:--:--  3285
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   3619      0 --:--:-- --:--:-- --:--:--  3666
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
