@@ -1,6 +1,6 @@
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   3632      0 --:--:-- --:--:-- --:--:--  3614100   253  100   253    0     0   3619      0 --:--:-- --:--:-- --:--:--  3614
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2712      0 --:--:-- --:--:-- --:--:--  2750
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -11,7 +11,7 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   1832      0 --:--:-- --:--:-- --:--:--  1846
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2689      0 --:--:-- --:--:-- --:--:--  2720
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -22,7 +22,7 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2585      0 --:--:-- --:--:-- --:--:--  2608
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2896      0 --:--:-- --:--:-- --:--:--  2941
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
@@ -33,7 +33,7 @@
 </html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   3471      0 --:--:-- --:--:-- --:--:--  3563
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2764      0 --:--:-- --:--:-- --:--:--  2780
 <html>
 <head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
 <body>
