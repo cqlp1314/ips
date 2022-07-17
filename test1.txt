@@ -1,16 +1,37 @@
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-curl: (28) Operation timed out after 213 milliseconds with 0 bytes received
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-curl: (28) Operation timed out after 211 milliseconds with 0 bytes received
+curl: (28) Operation timed out after 205 milliseconds with 0 bytes received
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-curl: (28) Operation timed out after 210 milliseconds with 0 bytes received
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   1787      0 --:--:-- --:--:-- --:--:--  1794
+<html>
+<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<center>The plain HTTP request was sent to HTTPS port</center>
+<hr><center>cloudflare</center>
+</body>
+</html>
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
-curl: (28) Operation timed out after 211 milliseconds with 0 bytes received
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2372      0 --:--:-- --:--:-- --:--:--  2386
+<html>
+<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<center>The plain HTTP request was sent to HTTPS port</center>
+<hr><center>cloudflare</center>
+</body>
+</html>
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   253  100   253    0     0   2294      0 --:--:-- --:--:-- --:--:--  2300100   253  100   253    0     0   2290      0 --:--:-- --:--:-- --:--:--  2279
+<html>
+<head><title>400 The plain HTTP request was sent to HTTPS port</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<center>The plain HTTP request was sent to HTTPS port</center>
+<hr><center>cloudflare</center>
+</body>
+</html>
